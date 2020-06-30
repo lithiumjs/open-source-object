@@ -1,6 +1,6 @@
 # Open Source Object
 
-## FAQ:
+## FAQ
 
 > What is this?
 
@@ -17,6 +17,10 @@ Check out [CONTRIBUTING.md](https://github.com/lithiumjs/open-source-object/blob
 > Does this have any purpose?
 
 No. It's just a joke I decided to make in my free time.
+
+> But why?
+
+No reason in particular. I got inspired by [Open Source Objects](https://www.youtube.com/channel/UCn8C33szzSp_4kzUMPJNmFg) though.
 
 ## LICENSE
 
